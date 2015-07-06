@@ -1,0 +1,4 @@
+data/*
+.ipynb*
+
+!data/README.md
