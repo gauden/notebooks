@@ -1,4 +1,5 @@
 # notebooks
+
 Repository for IPython/Jupyter notebooks
 
 ## hfa
@@ -7,4 +8,4 @@ Notebooks related to browsing the data for the [WHO/Europe Health For All databa
 
 ## vaw
 
-Notebooks related to data visualisation for the 2015 Women's Health Report from WHO/Europe
+Notebooks related to data visualisation for the 2015 Women's Health Report from WHO/Europe.
