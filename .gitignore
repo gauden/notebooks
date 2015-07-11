@@ -2,4 +2,4 @@ data/*
 .ipynb*
 
 !data/README.md
-vaw/data/~*
+vaw/data/\~*
