@@ -4,3 +4,5 @@ data/*
 !data/README.md
 
 vaw/data/~*
+
+vaw/data/~$raw_data_20150701.xlsx
