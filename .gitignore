@@ -4,5 +4,6 @@ data/*
 !data/README.md
 
 vaw/data/~*
+vaw/pythonref/*
 
 vaw/data/~$raw_data_20150701.xlsx

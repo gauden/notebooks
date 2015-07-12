@@ -1,0 +1,24 @@
+FEMALE_FILL = '#f4a582'
+FEMALE_LINE = '#ca0020'
+FEMALE_SYMBOL = 'circle'
+
+MALE_FILL = '#92c5de'
+MALE_LINE = '#0571b0'
+MALE_SYMBOL = 'square'
+
+NEUTRAL_FILL = '#986FB6'
+NEUTRAL_LINE = '#602c85'
+NEUTRAL_SYMBOL = 'diamond'
+
+BREW_SEQ_FEM_1 = '#fee0d2'
+BREW_SEQ_FEM_2 = '#fc9272'
+BREW_SEQ_FEM_3 = '#de2d26'
+
+BREW_DIV_1 = '#d7191c'
+BREW_DIV_2 = '#fdae61'
+BREW_DIV_3 = '#ffffbf'
+BREW_DIV_4 = '#a6d96a'
+BREW_DIV_5 = '#1a9641'
+
+PLOT_HEIGHT = 1000
+PLOT_WIDTH = 800
